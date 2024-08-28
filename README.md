@@ -1,4 +1,4 @@
-# MRPBadBankOrig
+## MRPBadBankOrig
 Bad Bank Project for MIT (MRPBadBank)
 
 Project Title
@@ -41,22 +41,27 @@ Access the Application:
 
 Open your web browser and navigate to http://localhost:3000 to start using the application.
 
-Technology Used
+# Technology Used
+
 Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB (via MongoDB Atlas or locally)
 State Management: LowDB (as an alternative)
 Others: CORS (for handling cross-origin requests)
-Features
+
+# Features
+
 User Account Management: Create, manage, and delete user accounts.
 Deposit Funds: Users can deposit money into their accounts.
 Withdraw Funds: Users can withdraw money from their accounts.
 View Balance: Users can view their current account balance.
 Secure Database Storage: MongoDB is used to securely store user data and transaction history.
-Future Features:
+
+# Future Features:
 Transaction History: Ability to view a detailed transaction history.
 Authentication: Implementing user authentication for enhanced security.
 Improved UI: Enhancing the user interface for a better user experience.
 Mobile Responsiveness: Making the application mobile-friendly.
-License
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for more details.
