@@ -1,12 +1,12 @@
 {
-  "name": "littledb",
-  "version": "1.0.0",
-  "description": "lowdb sample for 1.125",
+  "name": "MRPBadBank",
+  "version": "1.2.1",
+  "description": "Bad Bank Project at MIT",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "abel@mit.edu",
+  "author": "mark parinas",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.4",
